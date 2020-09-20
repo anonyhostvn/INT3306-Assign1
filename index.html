@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bài tập lập trình</title>
+    <style>
+        table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+        }
+
+        td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+        }
+
+        tr:nth-child(even) {
+        background-color: #dddddd;
+        }
+    </style>
+</head>
+<body>
+    <div class="paragraph">
+        <h1> 
+            chapter 1
+        </h1>
+        <h2> 
+            section 1
+        </h2>
+
+        <h3>
+            Lorem ipsum dolor sit amet
+        </h3>
+    </div>
+
+    <div class="form">
+        <input type="text"/>
+        <input typw="number"/>
+        <input type="button"/>
+        <input type="checkbox"/>
+        <input type="password"/>
+    </div>
+
+    <div class="image"> 
+        <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAwICQ0TCg0WCg0NDQ0NDR4NDQ0NDRoaHA0eLCYuLSsmKikwNjk7MDM1NCkqMEYxNUc+QUJBLzpJT0g/TjlAQT4BDQ4OEhAQHRUVHT4mHiY+Pj4+Pj4+Pj4+Pko+Pj4+Pj5KPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pv/AABEIAOAA4QMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAACAwABBAUGB//EAD4QAAIBAwICBggDBwMFAQAAAAECAAMREgQiITIFEzFCUVIjQWFicXKB8IKhsRSRkqLB0eEGU/EzlLLC0iT/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIDBAX/xAAmEQACAgICAgICAgMAAAAAAAAAAQIRITEDEkFRE2EicYGhFDJS/9oADAMBAAIRAxEAPwD0FpYEghCeaZlBZdoQkgANpAJZkEAIBLAkkEACAktIDLgBVpdpJIAXaS0l5LwsLJaS0rKTKFjsmMu0rKVlHYrLMAyy0EmFhZDKlEwSYrFYZgwSZRMLCyzJBvJeFhZZgkyiYJMVjsO8kXeSFhY8QwYEsGADAZd4F5MoWSWZBKvLvFYBCS0q8l47KCEuDeS8YBSXg3kvAAryQbyRAWZV5CZV4mwLkg3l3isRZgmQtKJjGVBMhMl5LYEMEwjBiskq0owoLQAEwTClEQsCpJJIWBolgQgJLTWiqIBJaXJaDQUVaXIBLtFQUVJLtIBCgosSSAS7RioqVLkAgMgktCAl2hQqFkSrRhWVjE0FAWktCtJaKgoArIVjLSWlUOhJWVjHEQSJLQULIglYyXaFCoVaURHFYBEKRVCbSysZaQiKhqIm0kbaSFB1QwGEDFqZeUuh2HJKDSwYCbCUS4IaUWgKwpYgBpC8QDJdojrIQeOxByCAWm/RUQFVq3N3f7ykrZSVukISk54KGb8M0J0fWPqVfmaaqmvpqu0q3vRTdJJixuv8U0UUjRcYB6Oqjyt8rTNVpOvCoGX5pqGuBpq1N9rR9LUiou4ZI3NBxT0N8fo5JlXjNTTwqMv8PwiC0xeDF4CBlgxYaXeCYrCJgEyFoBaDYNhCFFBpfWQTQrDLQCYJaVlC0OyyZCYJMAtE3QWMylxOUkXZBbCzhBoBEtYXkuhgaXlAkEdiaGZQSZYi2MHgloMPKLQFjCJKyIXlujUi7RtPmWCVMEjelLTri1bPLys3CZNZ0tp2rrTXldsFZV5TOd0p0laoyqdqIWaec6OrGrXdmGyl5uGbTdPwtHbGCUbPTanUgLtfL3mUDh9+ucbpjp3q6fV6SmtbVNZnZlZhSF/AcSf07Yzqqlapeo7KvdVOAm7RdGEctRaK8zOy8fpwlR3kb0Y/9I1dX1lZdSjJRZs0Z7hmHwuf3T2qU6OO18VbuzzWq1NMMq6d9ic7s3MfvjMWt1+dJlWs1LbzrbL9Pyg3chVSO7qNZp22rqlqujFWZ8V4X7PDh2RJafItUlUVWydnxbHL+s+r9Eaa3QnR5XPL9nCPc3Kn6Q5eJJWjmmryaFaTKBeCZy3RnYwmLJkvKIjeRFBpRaXJaJAVlJlIZUKAK8BmltFmJ3oAspIF5IqAY1SUKolmneIqUXyiu9Gs4yiaRVEhqRCUXjRSeNSDrKroaKkomWlAyGgYfItD+OfW6LUyy0JKBxhilE+RIqHBOQkNJUqY02byqWjTpzMXS900Tle8wWVGSdAuKUZU0ef1NQmhWZuaq2P0/wAzN0UQKHbzNl9/pDqN6BfnMR0Y6Cni21uWdUdM6JPR3dPqQKnmx8sy9Lf6gp02VahVcuVVX1eMX+04tOB0/oKj1etXcrIEZV7scUm6ZDbWjvafpWm6XRwbi47Jz9frqYXdUX1+F+ycOgaBVsn6qrwVVflb23nQpdH06qq1Pdkp5ePq/p+k2UKJTsDTdH6jUUqtTSIF6ndV67bw+/Ge76A1V+i1SoVZ6TDLDsUzndFaIno2tQplUd2GLNwVlv2f0t2zq9G9FjT02XNmzszeCmY80msMfROL9mkmLJmoUYBoTibRj8MvQlVMsrNa0TjFOu6OMvDKfC0jORKmkUiZfUQk0tBHhbMRaUGmlqIgrR3Rd0lYlwS7UKIiWM3VKe2Yyl2jUk1YT4XGSQvKSO6mSHdB8MjbSQRwoiY0qkR66jbM3aVHdHrN2xxRJDaZ+ugdbf1yFFtm0uqRpyEsG/qmQvG0q4g40JNPRoVpCRE9ahhPVAWJQvLG3WgzWEVqESrSZW70QTeDTvlNlFLRi5q8nmulOjXoUmN8kZsvl4zkJScYty5Wb5p9C6ZoJU0fUt3mDu3r7eyeb12kTLaMflnZFNRyYyabwY6W6nukuRwYbYxBjwjOtTsYbvl4SmiUzk6ro+hUa9sfeXgZy6ei1VKrentZb7svVa09KVHWWUd3L2Tq9H6OkzKK1NW83qjjNrANLZx/9PVek2rojOiUmYZuyXKrft7Z7QzT0Xo9KtNuroquW32xNdcajDu5TPmbkk2CvRaMTDIi0qoJTVQZwyVnXxY2xjVRjMrPultXGVpGtjGmqoJxmndYGU6wHNLqVhMjyFgF3SWkmCTeEhqN5oPWjLbMVTUbrLAFQiCheSZ8ii6ayby15S0915kp1TDGrPZDKVItJTf6Nl/lkmDrn8JIVI0pB0NQjcFMM+6Zx9KpXLjNKVSJo1MxnPhX+rNuW2DTQ5XmcV5Y1Xqlu1pHLGXZ02dEKMZlq37sV1xM1U09GzMZKVZKk5N0vAhcxHUxfmMSteT9otG02hQnUsvB0004xjKdEZKfLOeutvwtOrp1AoOzeUqvxi4oTckmbz6dbRzdTVvUbj3pzNVzds1VxuaY6g/FO5nMjOVHbFvTtxmgAfr++0GvTv8A9P5fpGhiqFK7XblWbtLW9Jbbjy5cLRVOnak5tuxy/OJ0QuqhhkvCOqDZ7HoaoDt7ytNPTNG6qyhtu1sZk6MqouOPNj9Z1qpyoP8AIeWTJXFoadSTPMMpK7YCAhZdXUkMwURNOo+XpJwOfho6Vxrdhjxh9aOyEaqYzOxQ8YqTyU5tKthtVAaEdOW4zO1UY2tImrcLaJQe0J8kU0mwTQtUhmkMd0oVjleE6l12w5G4pJBCEOSVp2TThMrNF11Aq7YFRXpssNVD5FjFf42zVJRlSDuJIrAeMki/s1/gQNPb1wWU92aCTl80NKu1shyzpTaXs8i03jBlWkSvvQDQfJTNoYjjCSpfmEqLb8EtKOmJp07cLx4puVteUbZW80c1XFV4bpTSoScm0rM3U7YZSywxUv7sGoxVbtukrKspvpjYVKldkK82WM63SDgUkRfZ+Kc3Q1Qany3bH6S6uozqr8024kkiuzatkqU/XMlTjwmqs22YmI7ZsxJmeuntX8TWg0SQ26HUpgru/hmNHs219sRSOtTAbh7v9ZnqcG293bA09U7uOPYyt6vhFrqHLNyru/rGwR6HosWxLc09FQYGmw90zyui1N/Xu73hPQdG1QeC95YJknDdqYZjaLr081vTDZSq6u9Vurptt5oCaiotTy492eVOD7Ws/R3xf41LD8MUxddrBso3raaqotujardZSybmWLNPl4SqTSbwZrsnJrID0r8VlKluaHX2t2wUKd4806YppUjkbi5N1kBlHbItYryzQlCme/8AhiamlIyK7lkSp4ZcVOOYg1GLyqbIqsrDdIxIxC80WzDL3oKCqvBa5Osr2wrDwklZjwlx9Imv+U/QDXPN3VlaeoG5R7uLfrASrtVrc/d8sNT5fwqq2xjaxhnDFwqmrNlSkBiPdyaA5AqbdyrM5q2bccmVe9NOnq0eruyblbdk35yZS6xtjhDvKo/2KV7tf7WE1UHh721obJRZrUxi/NhlwYX7ZdajRTbbN1XJsW/LskLkRo+GTfgCk123c3lmhmBxFsfmlN1AVSuWPebhtFvsRV8sjTKunzC6/nNO6rDI+Dk3VoelPFqzLjtQL9Zz6b7r+9N5uNJbzsW+lpzqA9Lu839Z0x0hrRp1LOMceaZqlUqt6jr72KxuoYNlxaVT0wK25vmjvJVYOfVqvzLuRv5ZgFQtU9Hyt5f0nT1KYK6+VcpzNPYKrebdKFZuWqBScXx3fAtMmnq+kYN80eoQ8szU6qfte3yZN/eCQWdjT1QKijdkzbl9U9d0SvIy/inkejqRdla25uVZ7Loyjgqli2WP0hVMbyjadJp8ierXI+HCW2g0zpi1JP4eMRW1AWqR5rGOpV7wSjehO2tnD6X6NNGn6HdSy73d9kzJVotwqbds9NraQq6aqveZTj8Z4lyAyjNc8jt7DObl4Ip34ZpDnnHCydPUJowq5bmmTHSH/ph/mmegwarZsdq5evtvDq1cqbYhWfu4sBM1yqMutDlxOUXJJBKRljRGTNf90rB8vSHHG645cJip6kLkKj4O67MbxbVa+O3evvbTLbzoyivxy6N4plVY82MEYGopY7WiU1NUaZlXF9wZWbwtKp1gW3fLlDLIbUZKsm/HT+DS5jyXwX+KSFMvv9GPC7XpnvHb9ZNXXwxy3ZL3ePG8gJxYqOZsmbH8zG0KuGYrU0ZU3MtVAcj4j4QbSWFZzwjby6Eq+3dzYDJu0fGGawK2blyOS+q4jaFfmChVyQZLjYMeP37BaINMdZ2Kqs+xmbiw+/h4yEu21Rq7isS2NqVQMhu5T3h9/YkHSN+tFM5OtmfK4xHj/gQael/3izZXZVa3ZbiOz74QP2LJc1ODI2DI3eHqP9zK6p0JTkE9QdWoY5KynJezhf8AzDamNy0RtyDbf1mdaSLUbhnsDKq8SxuPsyiXFdz1uGShdlybW7fr+louieAhzTg9nXr1r0k+XuzFTPpItXBpKKhyXkZm7GN+yY6dXDU4sckZtjs3H4H+h9fx7elaSLu8s35EtN+m5fL+swqgymmm9pN0zTaEdNUvQVWXmVZ5ijq7fLPXdMH/API58yGfPnJxYryowWbKmjNnbXUgZceWZ+hlLauqW5cQv0vMmjR6rKFyxZDk2JtwHZOjoPRVFFm3eZeb2wQj1vQ6WW9vdWei0tQ7fK3mnnuiXIoZX2s23/M7Wj1APC6//MiTyaJYGdIqespFeZlwXw7e2N0+YX/2hupLKdu1cWZu7/zLavTVe9u7zcBLVVZH0Mp1t1mxnj+kaSJqarbssyvyi/bO+1cCrfPHHmX1W8RMmr6PLZsxR1Zsl3e08Pv1zLkyqHVNM4gpBaitURsGXutwvCRAaFYabnW7bmAy9n+I6uCMg2WK+ZeF/v2wVXcy23su71Ze3s+/055RtfYRn1kIVHLMVRetbn239XaJG07rTcMMdmXMNxtG1lCUkbrE3NgqdjW8fs/lApm/Nsbiq58Rfw8eH3aODVBy23bWBTo5W1MYqihWbIEMbRdVirXYY7t2Pe4ds11GQU/SBl8q+U/p7P3fXM63Zjbdhl4ffD8pTtsyTQH7dT8W/h/xJFfs1D7Zv7yR0a3x+jQpx454sttuN+H32yqi0zxXdmvdY9l5dSiX5ufLa3lMDS03p1GyCqzVck8LeHjE9WjGCUpU3SHFwq2bvMOZePwgdaG5u6x3Yn93+Y6oXZcWCMuW7JuUzOKZLNx2rfL1/WJfZU0lVO7DeuBjiWxxLbu37MJNSDkF8oyZVHZ4/fsmSoXLKtNF2bXy+M206NlbLay2xxtHTrBmG1iu47sdzcLqPDsmY6XNtr45Nlk3x+/yjg3MGO7KTzKuO1tsTY1TZnXTBWdb4qy7Ua5CmVR02HFgrYpjjjx+M1BU6xcirMu75fZLZR1jcNrfyxpsLYo3Wqq7seT2TQyoKatdtq7sePq/f7IC0i3BsW3c3rhMCaa4javL8YNtDUmiapTU0TLTK5spZF9azk6n/TlNtNVCv1Tso7vBTf6+2dUtjmPj7MoLORwYNly7vhH3aE5NmPTdH06dWkaJVUV8nX/cOJFz8Ldn/MA9EBF9C7ZPdVbK2Jy7J1CQq9mLL7vMbRJN23d3lVePHxj7tYC2i6ZqLTRb4qu35eM2UTbEKdzMFbbbhftmUPtZahbf3u2AlUZWuq7vq0m7eS+7Wj0663GnjtdlfBcuHGUNSXwF0daqluqx9s8519/NlkN3GMFYqqFnZu74Y8b8OMrvdIffzQXSYrZKqllyYY7b/Q/D1zNW1VfJVu/r3cAqm1/G/wC4ds01apLL1m5Xvk2XNc9v9ZdgKaipjuuy5dvb98YPIfI/Bj0prhqvWPnlyq3L2Q1dyymomSq+5u3E+N7+v935GFTUipbdu2/f34wKanF+sOKruRvLISe0S5NvIiuCWupbHgrf3+n365oqXNNN/IhZXVbs3/NpZqgqqscu1YyjZc+O5Ux8Q3HtjSrA3Nur8GLUCu2IphuYeDevt+nr+sBjUxZrNymkq48bW+xaa8yeF+Vi3hiYQa1Rg3Myhlwt2/frjXshsxXf/crf9of7yTo4v/t/yySxWZAx8e9kvvR9cWppx3Opb5TMNNrMrMN3ljwHLXY7W5VXuzNPYJMtKqBdw8IJ25G/NzY/pKxIbsXGCbBdw5uVoDSGsoG5fLywxVQ017uO2KQ7bQiRtxHzZR5HS8l4XZjfmXFY0LuuwyXHH/MzU+GRb+WEzXXbtb/yioqkkTHddY9SRT95m/KZw9pZcnHj+GNLBP7NiohVcSuTbuaAahTHjy92JFQHl7sB6t+DQavJLVmoVQ2RsrL5ewqYstlUybarbZmVrNHgbbXktNotJWrCdbsx8ttywAEDKNy/N+kWGdclU4q25oPW3qXYyYxfkqfV11HkOfX3S2USDZlHN3spBqR1nlxglwcv5ZdEDsr44jdlu+FoBq8vFlxb8oI8f4oLuC0OorHHdiWxb8oYZNovkqqcfFTMYbbZpC9o6GnRpfUYq7N5vy8IdGuMVN1bNTjMbVb4i0lNitS9sYqayNNejUaYDX3fi7WMFeDMG/iWYqxyq5Ztl73ZaOpamzK21mVvLwg/oTXodUY9Y3e2hX28xhl7N5WRRh8ImpqAWuox83vQRVu1m+x4R6E8onpPfkhdekkLFgFAOVpouAtu9MlE+kvGVGvAdjzUGNvNtgrSx4Mebli8csYxjtg3lUDeQKYsy+XLdH6lUFPbuaZ0TduMaz7t0LBvIumnrb+GWKb5dqqmUVq3qBfRzLSpVyu52jVFN3s6hpoFu1RcpmOoRW9INvdZZjHRt8ixbL5jHLp7Kq8y+9xjtAmvQwPdtv8ANGA+uWEBVRLehbishtDp1oCpU9dpZr3WW1K6xYpkcIXeSUyUzfheFWVAtr7pYWVUo5euO0NCaB800FQFvBo0rZToUlp47hInNRVmkON8jpGC91tAIu22dWrp6bU/R805lRXRuyKHKpPAT4nDaKI3QDTJbbHL42k7WsvLNbMaEimesusaDzZD8U0BBjaA1Hbe+KwsaVbMV7s2IglT4TUEAW8sHbe2MQZMYIyU1Disuo929CIWopZ+7jKo0iqtFTuzoXx9ae/YGBkl3qSR5J+OH/R//9k="/>
+    </div>
+
+    <div class="table">
+        <table>
+            <tr>
+                <th>
+                    Name
+                </th>
+                <th>
+                    Color
+                </th>
+                <th>
+                    #Code
+                </th>
+                <th>
+                    Rgb
+                </td>
+            </tr>
+            <tbody>
+                <tr>
+                    <td>
+                        DARKSALMON
+                    </td>
+                    <td style="background-color: #E9967A;">
+                        
+                    </td>
+                    <td>
+                        #E9967A
+                    </td>
+                    <td>
+                        RGB(233, 150, 122)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        	INDIANRED
+                    </td>
+                    <td style="background-color: #CD5C5C;">
+                        
+                    </td>
+                    <td>
+                        #CD5C5C
+                    </td>
+                    <td>
+                        RGB(205, 92, 92)
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        LIGHTCORAL
+                    </td>
+                    <td style="background-color: #F08080;">
+                        
+                    </td>
+                    <td>
+                        #F08080
+                    </td>
+                    <td>
+                        RGB(240, 128, 128)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        SALMON
+                    </td>
+                    <td style="background-color: #FA8072;">
+                        
+                    </td>
+                    <td>
+                        #FA8072
+                    </td>
+                    <td>
+                        RGB(250, 128, 114)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        DARKSALMON
+                    </td>
+                    <td style="background-color: #E9967A;">
+                        
+                    </td>
+                    <td>
+                        #E9967A
+                    </td>
+                    <td>
+                        RGB(233, 150, 122)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        LIGHTSALMON
+                    </td>
+                    <td style="background-color: #FFA07A;">
+                        
+                    </td>
+                    <td>
+                        #FFA07A
+                    </td>
+                    <td>
+                        RGB(255, 160, 122)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        CRIMSON
+                    </td>
+                    <td style="background-color: #DC143C;">
+                        
+                    </td>
+                    <td>
+                        #DC143C
+                    </td>
+                    <td>
+                        RGB(220, 20, 60)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        RED
+                    </td>
+                    <td style="background-color: #FF0000;">
+                        
+                    </td>
+                    <td>
+                        #FF0000
+                    </td>
+                    <td>
+                        RGB(205, 92, 92)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        FIREBRICK
+                    </td>
+                    <td style="background-color: #B22222;">
+                        
+                    </td>
+                    <td>
+                        #B22222
+                    </td>
+                    <td>
+                        RGB(178, 34, 34)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        DARKRED
+                    </td>
+                    <td style="background-color: #8B0000;">
+                        
+                    </td>
+                    <td>
+                        #8B0000
+                    </td>
+                    <td>
+                        RGB(139, 0, 0)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        PINK
+                    </td>
+                    <td style="background-color: #FFC0CB;">
+                        
+                    </td>
+                    <td>
+                        #FFC0CB
+                    </td>
+                    <td>
+                        RGB(255, 192, 203)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        LIGHTPINK
+                    </td>
+                    <td style="background-color: #FFB6C1;">
+                        
+                    </td>
+                    <td>
+                        #FFB6C1
+                    </td>
+                    <td>
+                        RGB(255, 182, 193)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        HOTPINK
+                    </td>
+                    <td style="background-color: #FF69B4;">
+                        
+                    </td>
+                    <td>
+                        #FF69B4
+                    </td>
+                    <td>
+                        RGB(255, 105, 180)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        DEEPPINK
+                    </td>
+                    <td style="background-color: #FF1493;">
+                        
+                    </td>
+                    <td>
+                        #FF1493
+                    </td>
+                    <td>
+                        RGB(255, 20, 147)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        LIGHTSALMON
+                    </td>
+                    <td style="background-color: #FFA07A;">
+                        
+                    </td>
+                    <td>
+                        #FFA07A
+                    </td>
+                    <td>
+                        RGB(255, 160, 122)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        GOLD
+                    </td>
+                    <td style="background-color: #FFD700;">
+                        
+                    </td>
+                    <td>
+                        #FFD700
+                    </td>
+                    <td>
+                        RGB(255, 215, 0)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        LAVENDER
+                    </td>
+                    <td style="background-color: #E6E6FA;">
+                        
+                    </td>
+                    <td>
+                        #E6E6FA
+                    </td>
+                    <td>
+                        RGB(230, 230, 250)
+                    </td>
+                </tr>
+            </tbody>
+        </Table>
+    </div>
+</body>
+</html>
