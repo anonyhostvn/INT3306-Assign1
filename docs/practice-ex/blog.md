@@ -40,5 +40,5 @@ title: Blog
 <h2>10. Meet Darren Rowse @<a href="http://problogger.net" target="_blank" rel="nofollow noopener">Problogger.net</a></h2>
 <p>Darren is another blogger who you have to know about. He started blogging as a hobby. He blogged about the Olympics and his passion for photography, then eventually started Problogger, a website dedicated to helping other bloggers.</p>
 <p>Darren is currently a full-time blogger and started making money from advertising deals, affiliate programs, adsense, and selling an e-book.</p>
-<p>Darren has gained quite a bit of fame online and was named to the Forbes Internet Celebrity list in 2007. He lives in Melbourne, Australia, with his family and still makes a full-time living from blogging!</p>
+<p>Darren has gained quite a bit of fame online and was named to the Forbes Internet Celebrity list in 2007. He lives in Melbourne, Australia, with his family and still makes a full-time living from blogging!</p> 
 <p>If you aspire to become a blogger, learn from these successful bloggers about how to make money with a blog:</p>
