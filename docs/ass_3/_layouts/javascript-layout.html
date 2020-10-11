@@ -1,0 +1,88 @@
+---
+layout: basic-layout
+---
+
+<style>
+    .active-sidebar-navigation-link {
+        display: block;
+        padding: 8px 16px;
+        color: white;
+        text-decoration: none;
+        background-color: #4caf50;
+    }
+
+    .de-active-sidebar-navigation-link {
+        display: block;
+        padding: 8px 16px;
+        color: #000;
+        text-decoration: none;
+        transition: 200ms all ease-in-out;
+    }
+
+    .list-table-content {
+        margin-left: 300px;
+    }
+    .sidebar:hover {
+        width: 600px;
+        transition: 700ms all ease-in-out;
+    }
+
+    .sidebar {
+        width: 300px;
+        transition: 200ms all ease-in-out;
+        top: 50px;
+        position: fixed;
+        height: 100%;
+        left: 0;
+        display: flex;
+    }
+
+    .table-of-content {
+        background-color: #4caf50;
+        width: 300px;
+        height: 100%;
+        color: white;
+        font-size: 2rem;
+        text-align: center;
+        line-height: 25;
+        position: fixed;
+    }
+
+    .table-of-content::after {
+        content: "Table of content";
+    }
+
+    @media (max-width: 600px) {
+
+        .sidebar {
+
+        }
+
+        .table-of-content {
+            background-color: #4caf50;
+            height: 50px;
+            width: 100px;
+            line-height: 1;
+            top: 0;
+        }
+
+        .table-of-content::after {
+            content: '===';
+        }
+
+    }
+
+</style>
+
+<div style="" class="sidebar">
+    <div class="table-of-content">
+    </div>
+
+    {% assign type = 'javascript' %}
+    {% include sidebar.html type=type %}
+
+</div>
+
+<div style="margin-left: 300px; padding: 30px">
+    {{content}}
+</div>

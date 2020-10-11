@@ -1,0 +1,10 @@
+<ul style="list-style-type: none; padding: 0; width: 300px; background-color: #f1f1f1; height: 100%;  overflow: auto; margin: 0 0 0 300px" >
+    {% if type == 'javascript' %}
+        {% assign list = site.data.javascript %}
+    {% endif %}
+
+    {% for link in list %}
+        <li> <a class="de-active-sidebar-navigation-link {% if page.url == link.url %} active-sidebar-navigation-link {% endif %}" href={{link.url}}> {{link.title}} </a> </li>
+    {% endfor %}
+
+</ul>

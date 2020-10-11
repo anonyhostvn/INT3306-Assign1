@@ -1,0 +1,20 @@
+- title: Syntax
+  url: /javascript/syntax
+- title:  Variables
+  url: /javascript/variables
+- title:  Operators
+  url: /javascript/operators
+- title:  Data types
+  url: /javascript/data_types
+- title: Functions
+  url: /javascript/functions
+- title: Objects
+  url: /javascript/objects
+- title: Events
+  url: /javascript/events
+- title: Conditions
+  url: /javascript/conditions
+- title: Loops
+  url: /javascript/loops
+- title: Regexp
+  url: /javascript/regexp
