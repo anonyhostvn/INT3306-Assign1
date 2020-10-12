@@ -19,32 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08429e27-e284-4b2f-8a1e-783694570612" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/_data/css.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/_data/html.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/_layouts/css-layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/_layouts/html-layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/css/backgrounds.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/css/colors.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/css/fonts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/css/margins.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/css/selectors.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/css/sizes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/css/syntax.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/css/texts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/html/forms.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/html/headings.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/html/images.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/html/links.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/html/lists.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/html/paragraphs.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/html/tables.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ass_3/_includes/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ass_3/_includes/sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ass_3/_layouts/javascript-layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ass_3/_layouts/javascript-layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ass_3/css/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ass_3/css/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ass_3/html/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ass_3/html/index.md" afterDir="false" />
-    </list>
+    <list default="true" id="08429e27-e284-4b2f-8a1e-783694570612" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +73,7 @@
       <updated>1602313499151</updated>
       <workItem from="1602313500265" duration="13796000" />
       <workItem from="1602409958855" duration="1090000" />
-      <workItem from="1602472718256" duration="3263000" />
+      <workItem from="1602472718256" duration="3443000" />
     </task>
     <servers />
   </component>
