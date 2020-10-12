@@ -20,28 +20,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08429e27-e284-4b2f-8a1e-783694570612" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/_config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/_data/javascript.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/_data/navigation.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/_includes/navigation-bar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/_includes/sidebar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/_layouts/basic-layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/_layouts/javascript-layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/css/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/html/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/index.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/javascript/conditions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/javascript/data_types.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/javascript/events.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/javascript/functions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/javascript/javascript.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/javascript/loops.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/javascript/objects.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/javascript/operators.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/javascript/regex.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/javascript/syntax.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/ass_3/javascript/variables.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ass_2/javascript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ass_2/javascript/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ass_3/_data/css.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ass_3/_data/html.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ass_3/_layouts/css-layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ass_3/_layouts/html-layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ass_3/css/backgrounds.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ass_3/css/colors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ass_3/css/fonts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ass_3/css/margins.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ass_3/css/selectors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ass_3/css/sizes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ass_3/css/syntax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ass_3/css/texts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ass_3/html/forms.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ass_3/html/headings.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ass_3/html/images.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ass_3/html/links.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ass_3/html/lists.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ass_3/html/paragraphs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ass_3/html/tables.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ass_3/_includes/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ass_3/_includes/sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ass_3/_layouts/javascript-layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ass_3/_layouts/javascript-layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ass_3/css/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ass_3/css/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ass_3/html/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ass_3/html/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,12 +64,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/ass_3/css" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/ass_3/css" />
+      <recent name="$PROJECT_DIR$/docs/ass_3/html" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs/ass_3" />
     </key>
@@ -91,7 +97,8 @@
       <option name="presentableId" value="Default" />
       <updated>1602313499151</updated>
       <workItem from="1602313500265" duration="13796000" />
-      <workItem from="1602409958855" duration="960000" />
+      <workItem from="1602409958855" duration="1090000" />
+      <workItem from="1602472718256" duration="3263000" />
     </task>
     <servers />
   </component>
@@ -119,6 +126,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="183" y="111" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1602404124617" />
+    <state x="457" y="203" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602476568752">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="457" y="203" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1602476568752" />
     <state x="220" y="89" key="SettingsEditor" timestamp="1602404023226">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

@@ -1,6 +1,5 @@
 ---
-layout: basic-layout
-title: Javascript
+layout: html-layout
+title: HTML
 permalink: /html/
 ---
-html
