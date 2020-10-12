@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08429e27-e284-4b2f-8a1e-783694570612" name="Default Changelist" comment="" />
+    <list default="true" id="08429e27-e284-4b2f-8a1e-783694570612" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,13 +41,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/ass_3/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/web_ass3" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/web_ass3" />
       <recent name="$PROJECT_DIR$/docs/ass_3/css" />
       <recent name="$PROJECT_DIR$/docs/ass_3/html" />
     </key>
@@ -53,12 +56,16 @@
       <recent name="$PROJECT_DIR$/docs/ass_3" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/INT3306-Assign1/docs/ass_3/_site/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/INT3306-Assign1/docs/ass_2/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -73,7 +80,7 @@
       <updated>1602313499151</updated>
       <workItem from="1602313500265" duration="13796000" />
       <workItem from="1602409958855" duration="1090000" />
-      <workItem from="1602472718256" duration="3443000" />
+      <workItem from="1602472718256" duration="4480000" />
     </task>
     <servers />
   </component>
