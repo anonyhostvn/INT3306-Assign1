@@ -20,7 +20,171 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08429e27-e284-4b2f-8a1e-783694570612" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/02/dc3cb54a665fb67b34cff6ab0a640cd4b0cc83625f0f4759a6d84a8220cd9e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/07/41edfc6338092148cbf40139da92bc3864d673fa30628c1e3fdfa69ff3ba2d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/0f/67774a9fd69bf798e0fe7c064320a845a5ba661539648e89662e480f97b10e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/14/e56bfd6c09a4afc431da462f5628a359c9abdcf1e51aac06cb08d83cad91a8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/18/94a19c85ba153acbf743ac4e43fc004c891604b26f8c69e1e83ea2afc7c48f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/22/2cf36103583425387389ca7adb99c93cc06f535b75495e982bc0a07f6d3f70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/37/9fdd52236e6251ec752bd0ad4a3fdd781072b3c46d7e72cc7d90888f37abc8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/3b/c9c8aeb0fe504fc59b88977f0a26d9c469d7203c30c0820e798e5ba3bd5924" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/3e/0f1d725e90032ce93b9c5bcb11447d1f1245ecc725c37d3083995c7e1e9dc4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/3f/43e09b19af725e82b391025dc583f43ba71c4aa318d4962e1f68eccbc813bb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/4a/ea3a4521a0c8c60042eae76c9a0134531b8f3377adda394564627d1735f45e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/57/f4117d3b712dd714dfa1d5c7b990e75aa8d6c61b1391c572250a980c949fbc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/58/c4fb7f41e17eb74febeba83aff57ff598299bf4db66c8ede46a13a909435db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/5b/99d17cbea4f2c951747ef7b93603b71d8863a0de1d4bcafa20432dd2c12cc1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/63/7e252fa8460c2278df772e6dfbf4934329e2f03a9174070b70d0883886b435" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/63/a6280c204833c1a3f59aca74b4a6c3fe45841cb36929d9e3e43e9659b4126e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/6c/76a4d5edc524c54673c251f60af035f7710ee345343e3af0e56c277fd446e9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/6f/ff447d3ff1ad030bb33af46fb681f6a019a3b4fd866ac01bbac2158fa94d79" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/7a/e2f938f7c6b4dbc64f4e5cca1f19c9cb2422004cfcf9d501bb2534a6ea2b1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/85/53a8b8a905e9dba8f10c0ffa5b0e9965e4cb64b10fe3769d98b9bd950a24a7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/96/de64f3ff4df0c8f27a527679a9fd80c10912bc2a93cebe36f55e0c08670e35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/9c/d5222792f2e7adaf62a6532397603fe9dc516507409b6e7d3365574950226e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/c0/05cb5e8514c1aa83142ecc4132659033a43dc71953167984f8d525de073725" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/c3/aa9d12098aa7934c62b9b8be945d5b4b10025f94a852a14e3a64fce0a4ed27" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/cb/38ebe01c3a3908a235e8689d4063173a4fed1a3c05619f61c6c0491bd640a4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/d3/7af0eba45b05f93d32177e6a763546d422c19be99d9e8e2776a823929208b1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e7/be7753a65656b43f786dcbcc1d398aaae051857911081f4af74d123332c932" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e9/04f4ca69cde41fb7f28911a7512b12efc980506ab3a3139171a9a8f520c9b1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/f1/c0efb51f0952e5353ee09407302c7221b2987afee5e95fd9e3b57babff69dd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/fd/aa4200cef2544ec568b25970b3a49cf9b4f3d7015485506ccda914caf9c5b9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ff/8fa47e4d7603b8e2067ca4d178968dc14449ccc2632853b39132c28aad0f4f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/css/backgrounds.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/css/colors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/css/fonts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/css/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/css/margins.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/css/selectors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/css/sizes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/css/syntax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/css/texts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/css/backgrounds.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/css/colors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/css/fonts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/css/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/css/margins.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/css/selectors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/css/sizes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/css/syntax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/css/texts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/html/forms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/html/headings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/html/images.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/html/links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/html/lists.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/html/paragraphs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/html/tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/javascript/conditions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/javascript/data_types.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/javascript/events.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/javascript/functions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/javascript/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/javascript/loops.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/javascript/objects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/javascript/operators.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/javascript/regexp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/javascript/syntax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_2/javascript/variables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_3/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_3/Gemfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/ass_3/jekyll/update/2020/10/11/welcome-to-jekyll.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/css/backgrounds.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/css/colors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/css/fonts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/css/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/css/margins.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/css/selectors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/css/sizes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/css/syntax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/css/texts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/feed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/html/forms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/html/headings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/html/images.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/html/links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/html/lists.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/html/paragraphs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/html/tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/javascript/conditions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/javascript/data_types.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/javascript/events.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/javascript/functions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/javascript/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/javascript/loops.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/javascript/objects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/javascript/operators.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/javascript/regexp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/javascript/syntax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/javascript/variables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/jekyll/update/2020/10/11/welcome-to-jekyll.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/practice-ex/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/practice-ex/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/docs/practice-ex/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/html/forms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/html/headings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/html/images.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/html/links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/html/lists.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/html/paragraphs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/html/tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/javascript/conditions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/javascript/data_types.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/javascript/events.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/javascript/functions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/javascript/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/javascript/loops.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/javascript/objects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/javascript/operators.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/javascript/regexp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/javascript/syntax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/javascript/variables.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/backgrounds.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/backgrounds.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/colors.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/colors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/fonts.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/fonts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/margins.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/margins.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/selectors.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/selectors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/sizes.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/sizes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/syntax.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/syntax.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/texts.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/texts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/html/forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/html/forms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/html/headings.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/html/headings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/html/images.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/html/images.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/html/links.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/html/links.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/html/lists.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/html/lists.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/html/paragraphs.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/html/paragraphs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/html/tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/html/tables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/javascript/conditions.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/javascript/conditions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/javascript/data_types.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/javascript/data_types.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/javascript/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/javascript/events.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/javascript/functions.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/javascript/functions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/javascript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/javascript/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/javascript/loops.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/javascript/loops.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/javascript/objects.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/javascript/objects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/javascript/operators.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/javascript/operators.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/javascript/regexp.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/javascript/regexp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/javascript/syntax.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/javascript/syntax.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/javascript/variables.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/javascript/variables.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,19 +205,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/web_ass3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/ass_3" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$/docs/web_ass3" />
       <recent name="$PROJECT_DIR$/docs/ass_3/css" />
       <recent name="$PROJECT_DIR$/docs/ass_3/html" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs/ass_3" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html (1)">
@@ -80,7 +245,8 @@
       <updated>1602313499151</updated>
       <workItem from="1602313500265" duration="13796000" />
       <workItem from="1602409958855" duration="1090000" />
-      <workItem from="1602472718256" duration="4480000" />
+      <workItem from="1602472718256" duration="5538000" />
+      <workItem from="1602562334695" duration="912000" />
     </task>
     <servers />
   </component>
